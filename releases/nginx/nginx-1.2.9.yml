@@ -1,0 +1,19 @@
+name: nginx
+version: 1.2.9
+commit_hash: 5efa21b
+uncommitted_changes: false
+jobs:
+- name: nginx
+  version: 190c25cf379b98f42b6ff2e36dcd5c0bc6bd3ced
+  fingerprint: 190c25cf379b98f42b6ff2e36dcd5c0bc6bd3ced
+  sha1: 16a29c2dfcd65e6d6316fbd28905ff814437fdc9
+packages:
+- name: nginx
+  version: 028ba52a8e0d2a8d12d1d3bef69c8768789d2e0a
+  fingerprint: 028ba52a8e0d2a8d12d1d3bef69c8768789d2e0a
+  sha1: 1c1a482bf20a322d0cdc977426ec30caad843243
+  dependencies: []
+license:
+  version: 8be3a6c8b8dcef3ab0bed212ec9ab05e5e0e234b
+  fingerprint: 8be3a6c8b8dcef3ab0bed212ec9ab05e5e0e234b
+  sha1: f1bb0f0b1a65fc0aaecec0acedb7fe3747c0ea58
