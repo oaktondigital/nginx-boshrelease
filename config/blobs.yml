@@ -1,7 +1,7 @@
-nginx/nginx-1.13.10.tar.gz:
-  size: 1053717
-  object_id: 27ac28f9-411a-4107-51f9-887d30e75298
-  sha: 0d4f41d276cd5b9f64d3c0928551107cccea3e8e
+nginx/nginx-1.13.12.tar.gz:
+  size: 1055113
+  object_id: d2e53565-d57b-496f-75c2-f24a0658b9dc
+  sha: 4c9607de00cc7111d91bb41d219459cf4e563506
 nginx/pcre-8.43.tar.gz:
   size: 2085854
   object_id: 9bccddc8-56b2-4e7b-49b3-05d79585c780
