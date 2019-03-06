@@ -135,7 +135,7 @@ jobs:
     - do:
       - aggregate:
           - { get: bosh-release,     trigger: true,  passed: [test-release] }
-          - { get: version, trigger: true, params: {pre: rc} }
+          - { get: version, trigger: false, params: {pre: rc} }
       - put: version
         params: {file: version/number}
       on_failure:
